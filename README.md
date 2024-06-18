@@ -1,6 +1,6 @@
 # Content Management
 
-Srapi-based content management system as a general CMS for other projects.
+Strapi-based content management system to be used for other personal projects.
 
 ## Scripts
 
